@@ -1,0 +1,3 @@
+- Hi, I’m @Fidelissimus
+- I was interested in PHP, C++, Python.
+- But I almost forgot everything because I left it, neglect, lack of time.
