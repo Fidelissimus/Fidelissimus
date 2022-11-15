@@ -1,3 +1,3 @@
 - Hi, I’m @Fidelissimus
 - I was interested in PHP, C++, Python.
-- But I almost forgot everything because I left it, neglect, lack of time.
+- But I forgot everything because I left them, also my brain changed for some reasons.
